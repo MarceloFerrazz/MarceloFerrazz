@@ -30,5 +30,11 @@ HARD SKILLS:
 
 ![FIFA](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white) 
 
-![ACADEMIA](	https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black) ![]()
+![ACADEMIA](	https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black) 
+
+![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
+
+![NETFLIX](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+
+![]() ![]() ![]() ![]() ![]() ![]() ![]() 
 
